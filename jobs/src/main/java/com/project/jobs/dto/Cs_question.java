@@ -17,5 +17,5 @@ public class Cs_question {
 	private String content;
 	private Date reg_date;
 	private String category;
-	private Boolean chprivate; 
+	private Boolean ch_private; 
 }
