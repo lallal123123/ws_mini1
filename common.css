@@ -1,0 +1,12 @@
+@charset "UTF-8";
+
+.header_logo_size{
+    width:150px;
+    height:auto;
+}
+header{
+    background-color:#ccc;
+}
+footer{
+    background-color:#ccc;
+}
